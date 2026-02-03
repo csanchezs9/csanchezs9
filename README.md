@@ -1,4 +1,6 @@
 Hi 👋, I'm Camilo  
 Systems Engineering student focused on full-stack development.  
-View my portfolio: https://csanchezs.vercel.app/
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://csanchezs.vercel.app)
+
+<a href="https://csanchezs.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-→-black?style=for-the-badge" />
+</a>
